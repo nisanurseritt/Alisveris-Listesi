@@ -6,3 +6,8 @@
  - Öğe Düzenleme: Yanlış yazılmış öğeleri düzeltebilir veya değiştirebilirler.
  - Arama Geçmişi Silme: Kullanıcılar arama geçmişindeki öğeleri tek tek silebilirler.
  - Tüm Listeyi Temizleme: Kullanıcılar tüm alışveriş listesini temizleyebilirler.# Alisveris-Listesi
+
+ 
+    
+
+# Alisveris-Listesi
