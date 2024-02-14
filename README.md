@@ -1,3 +1,4 @@
+
 ## Alışveriş Listesi Uygulaması
 
 - Bu uygulama, kullanıcıların alışveriş listesi oluşturmasına ve yönetmesine olanak tanır. Kullanıcılar, istedikleri öğeleri listeleyebilir, yanlış girişleri düzeltebilir, arama geçmişini temizleyebilir veya tüm listeyi silebilirler.
@@ -10,4 +11,5 @@
    
    Ekran Görüntüsü
 
-![screen](https://github.com/nisanurseritt/Alisveris-Listesi/assets/136899672/46d09474-2a4b-45a6-8a01-07d7d2c5dece)
+
+![screen](https://github.com/nisanurseritt/Alisveris-Listesi/assets/136899672/4994969c-cdcc-4004-9b0a-181759b6d274)
